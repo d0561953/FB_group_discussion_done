@@ -48,6 +48,3 @@ int n=i;  // n is means to store size of arr
         }   
     }
 }
-
-
-
